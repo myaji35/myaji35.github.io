@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Social Doctor's (쑈닥)"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "강승식"
+name                     : "SeungSik Kang"
 description              : "Myaji amazing website."
 url                      : "https://myaji35.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
